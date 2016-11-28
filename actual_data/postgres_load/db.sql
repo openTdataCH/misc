@@ -1,6 +1,6 @@
 /*
 Data creation from ODPCH öV Schweiz Actual Data files
-Christian Trachsel, 2016
+Grégoire Blanc, 2016
 
 Relevant data set: https://opentransportdata.swiss/dataset/istdaten 
 More information: https://opentransportdata.swiss/cookbook/ist-daten/

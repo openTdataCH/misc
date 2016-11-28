@@ -1,5 +1,5 @@
 REM  Loading "actual data" from opentransportdata.swiss into a postgres database 
-REM Christian Trachsel, 2016
+REM  Grégoire Blanc, 2016
 REM 
 REM More information: 
 REM - https://opentransportdata.swiss/de/dataset/istdaten
